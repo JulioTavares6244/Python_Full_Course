@@ -15,7 +15,7 @@ And honestly, I’m not ashamed to admit it — I’m excited to **start fresh**
 ---
 
 ### ✏️ **What’s happening here?**
-Here, I’ll be keeping all the `.py` files 📂 I create during the course and linking the videos 🎥 I’m watching along the way.
+Here, I’ll be keeping all the `.py` files 📂 I create during the course and linking the video 🎥 I’m watching along the way.
 
 The course is from the YouTube channel [**Bro Code**](https://www.youtube.com/watch?v=ix9cRaBkVe0&t=164s) and has been a huge help in my journey to getting back into Python! 🚀
 
