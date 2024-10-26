@@ -1,12 +1,15 @@
 import time
 # for loop =    a statement that will execute it's block of code
-#               a limited amount of times
-#
+#               a limited/fixed amount of times
+#               You can iterate over a range, string, sequence, etc.
 #               while loop = unlimited
 #               for loop = limited
 
 #for i in range(10):
     #print(i+1)
+
+#for x in reverse(range(1, 11)):
+   #print(x)
 
 #for i in range(50,100+1,2):
     #print(i)
